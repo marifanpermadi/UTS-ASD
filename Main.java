@@ -1,4 +1,4 @@
-package ASD.ATM;
+package ASD.ATM; //edit sesuai folder project kalian (Project ini ada di folder ASD>ATM)
 
 import java.util.Scanner;
 
